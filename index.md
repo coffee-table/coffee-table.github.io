@@ -7,13 +7,14 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Conondale Great Walk map](https://coffee-table.github.io/cgw-demo/#13/-26.6812/152.6089)
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-[Link to Conondale Great Walk map](https://coffee-table.github.io/cgw-demo/#13/-26.6812/152.6089)
 
 # Header 1
 
