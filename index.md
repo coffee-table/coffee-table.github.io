@@ -1,4 +1,6 @@
-![Camper](https://github.com/coffee-table/coffee-table.github.io/blob/main/assets/images/Feo.png)
+
+
+![Camper](https://github.com/coffee-table/coffee-table.github.io/main/assets/images/Feo.png)
 
 ---
 layout: default
