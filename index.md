@@ -13,7 +13,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-[a relative link]("https://github.com/coffee-table/cgw-demo")
+[Link to Conondale Great Walk map]("https://github.com/coffee-table/cgw-demo")
 
 # Header 1
 
