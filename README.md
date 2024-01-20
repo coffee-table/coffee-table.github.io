@@ -1,5 +1,5 @@
 # The Slate theme
-![Camper](/coffee-table.github.io/assets/logo.png)
+![Camper](/coffee-table.github.io/assets/Feo.png)
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/slate/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/slate/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
 
