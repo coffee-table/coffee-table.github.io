@@ -1,5 +1,5 @@
 
-![Camper](https://github.com/coffee-table/coffee-table.github.io/blob/main/assets/images/Feo.png)
+![Camper](assets/images/Feo.png)
 
 ---
 layout: default
