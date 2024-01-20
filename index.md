@@ -13,7 +13,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-<iframe src="https://github.com/coffee-table/cgw-demo" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+[a relative link]("https://github.com/coffee-table/cgw-demo")
 
 # Header 1
 
